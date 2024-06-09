@@ -1,1 +1,1 @@
-export const getValue = () =>  110
+export const getValue = () =>  6
