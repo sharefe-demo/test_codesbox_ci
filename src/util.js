@@ -1,1 +1,1 @@
-export const getValue = () =>  1 + 2
+export const getValue = () =>  666
