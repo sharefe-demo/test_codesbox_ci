@@ -1,12 +1,11 @@
 {
   "name": "test_codesbox_ci",
   "version": "1.0.0",
-  "main": "index.js",
   "repository": "https://github.com/sharefe-demo/test_codesbox_ci",
   "author": "sharefe-demo <49937673+sharefe-demo@users.noreply.github.com>",
   "license": "MIT",
   "scripts": {
-    "build": "npm run parcel ./index.html"
+    "build": "yarn parcel build ./index.html"
   },
   "devDependencies": {
     "parcel": "^2.12.0"
